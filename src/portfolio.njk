@@ -1,0 +1,13 @@
+---
+title: "Portfolio Page"
+layout: 'base.njk'
+---
+
+<div class="section container">
+  <h1 class="section-title">Consectetur Adipiscing Elit</h1>
+  <ul role="list" class="articles__list flow">
+    {%- for post in collections.post | reverse -%}
+    {% include 'article-snippet.njk' %}
+    {%- endfor -%}
+  </ul>
+</div>
