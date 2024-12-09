@@ -143,6 +143,10 @@ header,
 /* //////////////////////
   Homepage
   /////////////////////// */
+  
+  p {
+  text-align: justify; 
+  }
 
 .hero > div {
   display: grid;
@@ -172,6 +176,7 @@ header,
   --flow-spacer: 3rem;
   margin: 6rem 0;
 }
+
 
 /* //////////////////////
   Individual article page
