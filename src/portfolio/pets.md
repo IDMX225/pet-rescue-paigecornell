@@ -4,8 +4,8 @@ title: Our Pets
 author: Paige Cornell
 date: 2024-12-10
 tags: ['post']
-image: 
-imageAlt: 
+image: /images/theaharrison-dog.jpg
+imageAlt: Dog and cat
 description: Check out the pets we have up for adoption! 
 
 ---
