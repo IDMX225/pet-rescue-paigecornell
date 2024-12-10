@@ -2,7 +2,11 @@
 @use "./base/reset";
 @use "./base/typography";
 
+img {
+margin-left: 950px; 
+margin-top: 60px; 
 
+}
 
 body {
   font-family: var(--ff-body);
