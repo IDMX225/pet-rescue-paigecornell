@@ -9,6 +9,23 @@ imageAlt:
 description: Check out the pets we have up for adoption! 
 
 ---
+<head>
+<link href='https://fonts.googleapis.com/css?family=Fredoka One' rel='stylesheet'>
+<style>
+h1 {
+font-family: 'Fredoka One';font-size: 22px;
+}
+</style>
+</head>
+
+<head>
+<link href='https://fonts.googleapis.com/css?family=Comfortaa' rel='stylesheet'>
+<style>
+body {
+font-family: 'Comfortaa';font-size: 18px;
+}
+</style>
+</head>
 
 <p> These are the pets we have up for adoption! </p>
 
