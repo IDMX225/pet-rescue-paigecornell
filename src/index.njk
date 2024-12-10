@@ -12,8 +12,10 @@ layout: 'base.njk'
       <p>There is also an increasing need to rescue animals from abuse, neglect, and abandonment. The demand for rescue services is further compounded by natural disasters and economic hardships, which can lead to a surge in pet surrenders.</p>
       <p>Supporting pet rescues through donations, volunteering, fostering, or adopting can make a significant difference in reducing the number of homeless animals and providing them with a better quality of life.</p>
       <div class="flex-group">
-        <a href="#featured-articles" class="btn btn--primary">Featured Items</a>
-        <a href="./portfolio" class="btn btn--neutral">Link to Portfolio Page</a>
+        <a href="#featured-articles" class="btn btn--primary">Requested Supplies</a>
+
+
+        <a href="./portfolio" class="btn btn--neutral">More Information</a>
       </div>
     </div>
     <div>
@@ -24,7 +26,15 @@ layout: 'base.njk'
 
 <section id="featured-articles" class="featured-articles">
   <div class="container flow">
-    <h2 class="section-title text-center ">Featured Items</h2>
+    <h2 class="section-title text-center ">Requested Supplies</h2>
+    <p>We are always in need of supplies to help us take care of our furry friends. Below are some items we currently need:</p>
+    <p>Pet Food (Dry and Wet)</p>
+    <p>Cat Litter</p>
+    <p>Blankets and Towels</p>
+    <p>Leashes and Collars</p>
+    <p>Toys for Dogs and Cats</p>
+    <p>Treats<p>
+    <p>Any donation would be greatly appreciated!</p>
     <ul role="list" class="articles__list flow">
       {%- for post in collections.featured | reverse -%}
       {% include 'article-snippet.njk' %}
