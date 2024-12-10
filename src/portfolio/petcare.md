@@ -9,6 +9,8 @@ imageAlt:
 description: Learn about pet care techniques! 
 
 ---
+
+
 <head>
 <link href='https://fonts.googleapis.com/css?family=Fredoka One' rel='stylesheet'>
 <style>
