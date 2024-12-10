@@ -18,26 +18,6 @@ description: Learn about pet care techniques!
  </figure>
 
 
-<head>
-<link href='https://fonts.googleapis.com/css?family=Fredoka One' rel='stylesheet'>
-<style>
-h1 {
-font-family: 'Fredoka One';font-size: 22px;
-}
-</style>
-</head>
-
-<head>
-<link href='https://fonts.googleapis.com/css?family=Comfortaa' rel='stylesheet'>
-<style>
-body {
-font-family: 'Comfortaa';font-size: 18px;
-}
-</style>
-
-</head>
-
-
 <p>Pet Care Tips</p>
 
 <p>Bringing a new pet into your home is exciting, but it can also be a big adjustment for both you and your pet. Here are some helpful tips to make the transition easier and ensure your pet feels comfortable and safe:</p>

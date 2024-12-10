@@ -1,6 +1,30 @@
 @use "./abstracts/variables";
 @use "./base/reset";
 @use "./base/typography";
+@use "./components/forms";
+
+
+
+@font-face {
+font-family: "Fredoka One" ;
+src: url(/fonts/FredokaOne-Regular.ttf);
+}
+
+@font-face {
+font-family: "Comfortaa";
+src: url(/fonts/Comfortaa-Regular.ttf);
+}
+  
+
+h1 {
+font-family: 'Fredoka One';
+font-size: 22px;
+}
+
+body {
+font-family: 'Comfortaa';
+font-size: 18px;
+}
 
 img {
 border-radius: 30px; 
@@ -12,11 +36,10 @@ text-align: center;
 }
 
 h1 {
-align-items: center;
+text-align: left; 
 }
 
 body {
-  font-family: var(--ff-body);
   font-size: var(--fs-400);
   color: #5C8CDA;
   text-align: center;
@@ -25,7 +48,6 @@ body {
 h1,
 h2,
 h3 {
-  font-family: var(--ff-heading);
   font-weight: var(--fw-900);
   line-height: 1.1;
   text-align: center;
@@ -143,13 +165,21 @@ header,
 
 .site-footer {
   --logo-color: currentColor;
+
   padding: 2em 0;
   color: var(--clr-neutral-100);
   background-color: #CFB9DB;
   text-align: center; 
-  align-items: center; 
-  padding-left: 60em; 
+  align-items: center;  
 };
+
+
+.site-footer div {
+  display: grid;
+  place-items: center;
+
+
+}
 
 
 /* //////////////////////
@@ -175,12 +205,6 @@ header,
   width: 100%;
   /* max-height: max(15rem, 40vh); */
   object-fit: cover;
-}
-
-@media (min-width: 45em) {
-  .hero > div {
-    grid-auto-flow: column;
-  }
 }
 
 .featured-articles {

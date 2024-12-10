@@ -9,30 +9,18 @@ imageAlt: Dog and cat
 description: Check out the pets we have up for adoption! 
 
 ---
-<head>
-<link href='https://fonts.googleapis.com/css?family=Fredoka One' rel='stylesheet'>
-<style>
-h1 {
-font-family: 'Fredoka One';font-size: 22px;
-}
-</style>
-</head>
-
-<head>
-<link href='https://fonts.googleapis.com/css?family=Comfortaa' rel='stylesheet'>
-<style>
-body {
-font-family: 'Comfortaa';font-size: 18px;
-}
-</style>
-</head>
-
 <p> These are the pets we have up for adoption! </p>
 
 <p>Fletcher</p>
+
+
+
 <p>Fletcher is a 1-year-old Shih Tzu/Bichon Frise mix who loves to play and cuddle. He gets along well with other dogs and loves children. He has a lot of energy and would do great in an active household.</p>
 
 <p>Pudge</p>
+
+<img src="/images/cutecat.jpg/" alt="Cute Calico cat">
+
 <p>Pudge is a gentle 7-year-old tabby cat. She loves lounging in the sun and receiving gentle head rubs. She would be best suited to a calm home where she can relax. Pudge is diabetic, but her care is manageable and she's very affectionate.</p>
 
 <p>Max</p>
