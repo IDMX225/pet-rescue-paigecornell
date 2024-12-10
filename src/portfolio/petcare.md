@@ -25,7 +25,9 @@ body {
 font-family: 'Comfortaa';font-size: 18px;
 }
 </style>
+
 </head>
+
 
 <p>Pet Care Tips</p>
 

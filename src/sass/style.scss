@@ -5,13 +5,19 @@
 img {
 margin-left: 950px; 
 margin-top: 60px; 
+border-radius: 30px; 
 
+}
+
+p {
+text-align: center;
 }
 
 body {
   font-family: var(--ff-body);
   font-size: var(--fs-400);
   color: #5C8CDA;
+  text-align: center;
 }
 
 h1,
@@ -20,6 +26,7 @@ h3 {
   font-family: var(--ff-heading);
   font-weight: var(--fw-900);
   line-height: 1.1;
+  text-align: center;
 }
 
 strong {
