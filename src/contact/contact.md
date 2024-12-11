@@ -4,6 +4,7 @@ title: Contact Us
 ---
 
 <h2>Contact Us</h2>
+
 <form name="contact" method="POST" data-netlify="true">
 
 <p>
