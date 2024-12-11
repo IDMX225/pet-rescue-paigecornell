@@ -1,6 +1,6 @@
 ---
 layout: base.njk
-title: Contact
+title: Contact Us
 ---
 
 <h2>Contact Us</h2>
