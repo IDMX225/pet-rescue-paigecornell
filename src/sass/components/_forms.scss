@@ -27,6 +27,8 @@ input[type=text], select, textarea {
   
   /* Add a background color and some padding around the form */
   form {
+    border-style: solid;
+    border-width:thick;
     display:grid;
     text-align: center;
     gap: 2rem; 
@@ -35,4 +37,6 @@ input[type=text], select, textarea {
     border-radius: 5px;
     background-color:rgb(72.55% 92.55% 95.69%);
     padding: 20px;
+    margin-top: 30px; 
+    margin-bottom: 50px;
   }
