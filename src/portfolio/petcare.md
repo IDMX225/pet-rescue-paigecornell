@@ -4,7 +4,7 @@ title: Pet Care
 author: Paige Cornell
 date: 2024-12-10
 tags: ['post']
-image: /images/cutecat.jpg/ 
+image: https://res.cloudinary.com/dd9kfhxch/image/upload/v1734046249/fuzzy-rescue-e8_DXpvCvjY-unsplash_b2ofef.jpg
 imageAlt: Well cared for cat.
 description: Learn about pet care techniques! 
 
