@@ -15,8 +15,7 @@ description: Learn about pet care techniques!
 <figcaption>
         
 </figcaption>
- </figure>
-
+</figure>
 
 <p>Pet Care Tips</p>
 

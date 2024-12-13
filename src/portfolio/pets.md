@@ -9,6 +9,7 @@ imageAlt: Dog and cat
 description: Check out the pets we have up for adoption! 
 
 ---
+
 <p> These are the pets we have up for adoption! </p>
 
 <p>Fletcher</p>
